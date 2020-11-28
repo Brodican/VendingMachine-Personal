@@ -1,0 +1,17 @@
+mthree\vendingmachine\dao\VendingMachineAuditDaoFileImpl.class
+mthree\vendingmachine\dao\VendingMachineDao.class
+mthree\vendingmachine\controller\VendingMachineController.class
+mthree\vendingmachine\service\VendingMachineServiceImpl.class
+mthree\vendingmachine\dao\VendingMachineAuditDao.class
+mthree\vendingmachine\dao\VendingMachineDaoFileImpl.class
+mthree\vendingmachine\service\NoItemInventoryException.class
+mthree\vendingmachine\ui\UserIO.class
+mthree\vendingmachine\service\InsufficientFundsException.class
+mthree\vendingmachine\service\VendingMachineService.class
+mthree\vendingmachine\ui\UserIOConsoleImpl.class
+mthree\vendingmachine\app\App.class
+mthree\vendingmachine\dto\Item.class
+mthree\vendingmachine\service\Change.class
+mthree\vendingmachine\ui\Coins.class
+mthree\vendingmachine\dao\VendingMachinePersistenceException.class
+mthree\vendingmachine\ui\VendingMachineView.class

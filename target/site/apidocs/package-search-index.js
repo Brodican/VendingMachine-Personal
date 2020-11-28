@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"mthree.vendingmachine.app"},{"l":"mthree.vendingmachine.controller"},{"l":"mthree.vendingmachine.dao"},{"l":"mthree.vendingmachine.dto"},{"l":"mthree.vendingmachine.service"},{"l":"mthree.vendingmachine.ui"}]

@@ -1,0 +1,4 @@
+Soda::250::2
+Mars Bar::150::2
+Galaxy::150::3
+Water::100::8
